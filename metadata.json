@@ -1,0 +1,5 @@
+{
+  "name": "n8n Webhook Chatbot",
+  "description": "A sleek chatbot interface that connects to an n8n workflow via a webhook for processing and responding to user messages.",
+  "requestFramePermissions": []
+}
